@@ -12,11 +12,7 @@ This project is a simple clone of the instagram feed with infinite scroll pagina
 
 ## How To Use
 
-#### Installation
-
-
-
-#### Run
+#### Installation && Run
 
 ```html
     yarn install
